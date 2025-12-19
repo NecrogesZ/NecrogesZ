@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente trabajando en: Proyectos universitarios y scripts de automatización.
 - 🌱 Aprendiendo: Arquitectura de Software y Django.
-- 🎮 Hobbies: **Valorant** (Main Brimstone), Hardware y Streaming.
+- 🎮 Hobbies: **Valorant** (Main Raze), Hardware y Streaming.
 
 ---
 ### 🛠️ Tech Stack
